@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.1.0/ochq_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ochq.exe"
+            ],
+            "hash": "f988cb8ac04932497812e832b41b3c130f2d1f2d0393bf1cb941ecedf98db6f7"
+        },
+        "arm64": {
+            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.1.0/ochq_0.1.0_windows_arm64.zip",
+            "bin": [
+                "ochq.exe"
+            ],
+            "hash": "750e728729a1673a068bad5954d0bff7a432452138e5eca3a687203b4279377c"
+        }
+    },
+    "homepage": "https://github.com/mukhiddinov/ochq",
+    "license": "MIT",
+    "description": "Expose a local port to the internet through an OCHQ tunnel"
+}
