@@ -1,19 +1,19 @@
 {
-    "version": "0.3.2",
+    "version": "0.3.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.3.2/ochq_0.3.2_windows_amd64.zip",
+            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.3.3/ochq_0.3.3_windows_amd64.zip",
             "bin": [
                 "ochq.exe"
             ],
-            "hash": "456478588a3b896429b565c0650395f1e221cb583fa9f4ba1c065fb6e81305d1"
+            "hash": "485894be1c118bc53593c618424a8eb12fbdf066e085699eafd2e546a13458ec"
         },
         "arm64": {
-            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.3.2/ochq_0.3.2_windows_arm64.zip",
+            "url": "https://github.com/mukhiddinov/ochq/releases/download/v0.3.3/ochq_0.3.3_windows_arm64.zip",
             "bin": [
                 "ochq.exe"
             ],
-            "hash": "114411923a5bc5d7a009c260e9505f3085b4a52dde8a26bdbe191135cd98e316"
+            "hash": "05a3e9cfbc80b8bd6a801142f535476786f678aa51cd58267297f94d3ff4d0ae"
         }
     },
     "homepage": "https://github.com/mukhiddinov/ochq",
